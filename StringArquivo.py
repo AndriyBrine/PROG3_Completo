@@ -1,5 +1,5 @@
 def main(): 
-
+// ATV 7
 
 	nome = input("Digite o nome do arquivo: ")    # poderia ser um nome = "StringArquivo.txt" apenas
 	# ^ para colocar em outro local que não a mesma pasta do programa principal, precisa especificar isso colocando o caminho.
